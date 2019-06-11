@@ -1,4 +1,4 @@
-# healthDashBoardRedux
+# ReduxTodo
 download using git clone https://github.com/jolaya182/healthDashBoardRedux.git
 
 run the command `npm start` and your main browser should appear with the application running
